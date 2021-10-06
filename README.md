@@ -3,7 +3,7 @@ This is a Perceptron network and can be implemented with your own datasets.
 
 Installation:
 ```bash
-pip install Neuron-pypi-SivaNagendra-sn==0.0.1
+pip install Neuron-pypi-SivaNagendra-sn==0.0.3
 ```
 
 How to Use:
